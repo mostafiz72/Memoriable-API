@@ -1,0 +1,38 @@
+*{
+    font-family: tahoma;
+}
+.watch{
+    border: 1px solid red;
+    padding: 5px;
+    margin: 10px;
+    width: 300px;
+    border-radius: 10px;
+}
+.watch h1{
+    font-size: 24px;
+    text-align: center;
+}
+
+.watch h2{
+    font-size: 14px;
+    text-align: center;
+}
+
+.btn{
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover{
+    background-color: #45a049;
+}
+
+.btn-container{
+    text-align: center;
+}
